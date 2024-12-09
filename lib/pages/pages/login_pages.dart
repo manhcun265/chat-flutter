@@ -54,7 +54,7 @@ class LoginPage extends StatelessWidget {
             // email
             Mytextfield(
               hintText: "vui long nhap email",
-              prefixIcon: Icon(Icons.email),
+              prefixIcon: const Icon(Icons.email),
               obscureText: false,
               controller: _emailController,
             ),
@@ -64,7 +64,7 @@ class LoginPage extends StatelessWidget {
             //password
             Mytextfield(
               hintText: "vui long nhap mat khau",
-              prefixIcon: Icon(Icons.lock),
+              prefixIcon: const Icon(Icons.lock),
               obscureText: true,
               controller: _passWordController,
             ),
@@ -83,10 +83,10 @@ class LoginPage extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text("hay dang ky ngay bay h - "),
+                const Text("hay dang ky ngay bay h - "),
                 GestureDetector(
                   onTap: onTap,
-                  child: Text(
+                  child: const Text(
                     " DANG KY",
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
