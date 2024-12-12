@@ -74,7 +74,8 @@ Sinh viên cần liệt kê một số công nghệ và thư viện cần sử d
     flutter test
     ```
 ## 6. Screenshots
-
+### Trang login
+- ![alt text](image.png)
 ## 7. Video Demo
 
 ## Yêu cầu nộp bài
