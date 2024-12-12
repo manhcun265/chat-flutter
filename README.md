@@ -75,9 +75,19 @@ Sinh viên cần liệt kê một số công nghệ và thư viện cần sử d
     ```
 ## 6. Screenshots
 ### Trang login
-- ![alt text](image.png)
+![alt text](login.png)
+### Trang Register
+![alt text](image.png)
+### Trang home
+![alt text](image-1.png)
+### Trang setting
+![alt text](image-2.png)
+### Trang chat
+![alt text](image-3.png)
+### Chỉnh sáng tối
+![alt text](image-4.png)
 ## 7. Video Demo
-
+- https://drive.google.com/drive/folders/1iPxkcs5XiBLeaLKHjOeJZIv66drkdmJw?usp=sharing
 ## Yêu cầu nộp bài
 - **Source code**: Đẩy toàn bộ mã nguồn lên GitHub repository cá nhân và chia sẻ quyền truy cập.
 - **Kiểm thử tự động**: Sinh viên cần viết các bài kiểm thử tự động cho ứng dụng. Các bài kiểm thử cần được tổ chức rõ ràng và dễ hiểu trong thư mục `test` với hậu tố `_test.dart`. Các bài kiểm thử đơn vị (unit test) cần kiểm tra các chức năng cơ bản của ứng dụng và đảm bảo chất lượng mã nguồn. Kiểm thử UI (widget test) cần được viết để kiểm tra giao diện người dùng và các tương tác người dùng cơ bản.
