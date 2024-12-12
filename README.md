@@ -74,18 +74,19 @@ Sinh viên cần liệt kê một số công nghệ và thư viện cần sử d
     flutter test
     ```
 ## 6. Screenshots
-### Trang login
-![alt text](login.png)
-### Trang Register
-![alt text](image.png)
-### Trang home
-![alt text](image-1.png)
-### Trang setting
-![alt text](image-2.png)
-### Trang chat
-![alt text](image-3.png)
-### Chỉnh sáng tối
-![alt text](image-4.png)
+
+### Trang login và Trang Register
+| ![Trang login](login.png) | ![Trang Register](image.png) |
+|--------------------------|-----------------------------|
+
+### Trang home và Trang setting
+| ![Trang home](image-1.png) | ![Trang setting](image-2.png) |
+|---------------------------|------------------------------|
+
+### Trang chat và Chỉnh sáng tối
+| ![Trang chat](image-3.png) | ![Chỉnh sáng tối](image-4.png) |
+|---------------------------|-------------------------------|
+
 ## 7. Video Demo
 - https://drive.google.com/drive/folders/1iPxkcs5XiBLeaLKHjOeJZIv66drkdmJw?usp=sharing
 ## Yêu cầu nộp bài
